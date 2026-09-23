@@ -6,6 +6,7 @@ Repositorio correspondiente a la actividad de la asignatura sistemas inteligente
 
 - Michel Dahiana Arenas Lopez
 - Danna Alexandra Madrid Roa
+- Sophia Cardona Quintero
 
 ## Descripción
 
